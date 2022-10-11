@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLUsbA81dFg5r7YiADjfpwvCEIHewwSn464g7UpHO0x+w2A/YqOr5vH6k+OePIDF7cqQw/ag9lg1EMs1lpZhWw==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\RevisaoApi\\src\\Revisao.Business\\Revisao.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tiago Nogueira\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\Tiago Nogueira\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\Tiago Nogueira\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\Tiago Nogueira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
